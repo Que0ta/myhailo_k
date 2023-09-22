@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+    font-size: 20p;
+    background-color: rgb(168, 64, 64);
+}
+
+header{
+    border: 1px solid rgba(16, 202, 10, 0.8);
+    background-color: rgba(16, 202, 10, 0.8);
+    border-radius: 10px;
+    padding: 10px;
+    color: brown;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    border: 1px solid rgba(255, 255, 255, 0.8);
+}
+
+body {
+    font-family: sans-serif;
+}
+
+footer p {
+    background:rgba(16, 202, 10, 0.8);
+    padding: 15px;
+}
+
+footer p {
+    background: rgba(16, 202, 10, 0.8);
+    margin: 15px;
+}
+
+nav{
+    text-align: center;
+    margin-top: 30px;
+}
+
+nav a{
+    text-decoration: none;
+    border: 1px solid blue;
+    margin-left: 10px;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.fire{
+    border: 1px solid rgba(16, 202, 10, 0.8);
+    border-radius: 25px;
+    padding: 10px;
+    
+}
+h2{
+    color: rgb(255, 255, 255);
+}
+.contacts{
+    text-decoration: none;
+    border: solid rgb(255, 255, 255);
+    padding: 5px;
+    color: rgb(255, 255, 255);
+}
